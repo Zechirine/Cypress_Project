@@ -1,0 +1,178 @@
+{
+  "articles": [
+    {
+      "title": "Article 6",
+      "slug": "article-6-yvuty",
+      "body": "Article 6",
+      "createdAt": "2020-04-21T22:12:47.959Z",
+      "updatedAt": "2020-04-21T22:12:47.959Z",
+      "tagList": [
+        "6",
+        "article"
+      ],
+      "description": "Article 6",
+      "author": {
+        "username": "Gizmo",
+        "bio": "My cool bio!!!!",
+        "image": "http://placekitten.com/100/100",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    },
+    {
+      "title": "The Quarantine Season",
+      "slug": "the-quarantine-season-x8o7mh",
+      "body": "A few weekends ago, for example, we brought you a story … about sea monkeys. On a recent Friday, we turned to the writer George Saunders for wisdom. The Friday before, the music critic Jody Rosen took us through the playlist of his apartment-bound day. Even earlier, Taffy Brodesser-Akner revisited her experience profiling Tom Hanks, before he became the Rock Hudson of this moment — our first celebrity with coronavirus. And just this morning, at the end of our interview with Representative Alexandria Ocasio-Cortez, you heard the glitchy sounds of Kevin Roose beginning his journey down into the more unexplored recesses of the internet.",
+      "createdAt": "2020-04-21T21:41:05.488Z",
+      "updatedAt": "2020-04-21T21:41:05.488Z",
+      "tagList": [],
+      "description": "What to listen to when you need escape, comfort, joy.",
+      "author": {
+        "username": "keke@gnail.comwwwww",
+        "bio": "wofdnwoijf",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "nn",
+      "slug": "nn-z2y65s",
+      "body": "n",
+      "createdAt": "2020-04-21T21:14:07.539Z",
+      "updatedAt": "2020-04-21T21:14:07.539Z",
+      "tagList": [],
+      "description": "n",
+      "author": {
+        "username": "ajjjj",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Teste",
+      "slug": "teste-u0v5bh",
+      "body": "# Wow\nWho could have guessed? Another test:\n```bash\nnpx degit sveltejs/realword\nnpm install\nnpm run dev\n```",
+      "createdAt": "2020-04-21T20:15:50.856Z",
+      "updatedAt": "2020-04-21T20:15:50.856Z",
+      "tagList": [],
+      "description": "installing realworld",
+      "author": {
+        "username": "Jeffery Walrein",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Test",
+      "slug": "test-lbszit",
+      "body": "Test2",
+      "createdAt": "2020-04-21T20:10:27.939Z",
+      "updatedAt": "2020-04-21T20:10:27.939Z",
+      "tagList": [],
+      "description": "Test1",
+      "author": {
+        "username": "Olga",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    },
+    {
+      "title": "Test",
+      "slug": "test-w30c44",
+      "body": "Test 2",
+      "createdAt": "2020-04-21T20:02:45.359Z",
+      "updatedAt": "2020-04-21T20:02:45.359Z",
+      "tagList": [],
+      "description": "Test 1",
+      "author": {
+        "username": "yurifedorov",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Test",
+      "slug": "test-pf2p1p",
+      "body": "Test2",
+      "createdAt": "2020-04-21T19:58:25.604Z",
+      "updatedAt": "2020-04-21T19:58:25.604Z",
+      "tagList": [],
+      "description": "Test1",
+      "author": {
+        "username": "Olga",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    },
+    {
+      "title": "Test",
+      "slug": "test-jgccf4",
+      "body": "Test2",
+      "createdAt": "2020-04-21T19:56:57.542Z",
+      "updatedAt": "2020-04-21T19:56:57.542Z",
+      "tagList": [],
+      "description": "Test1",
+      "author": {
+        "username": "Olga",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Test",
+      "slug": "test-dkpmdh",
+      "body": "Test2",
+      "createdAt": "2020-04-21T19:55:12.056Z",
+      "updatedAt": "2020-04-21T19:55:12.056Z",
+      "tagList": [],
+      "description": "Test1",
+      "author": {
+        "username": "Olga",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Test",
+      "slug": "test-lndaag",
+      "body": "Test2",
+      "createdAt": "2020-04-21T19:54:44.113Z",
+      "updatedAt": "2020-04-21T19:54:44.113Z",
+      "tagList": [],
+      "description": "Test1",
+      "author": {
+        "username": "Olga",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    }
+  ],
+  "articlesCount": 500
+}
